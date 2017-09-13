@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<exam>
+    <student examid="1" number="201503374">
+          <class>软工1502</class>
+          <name>柳圻辉</name>
+          <location>湖北</location>
+    </student>
+    <student examid="2" number="201503469">
+          <class>软工1502</class>
+          <name>付俊怡</name>
+          <location>湖北</location>
+    </student>
+<student examid="3" number="201503574">
+          <class>软工1502</class>
+          <name>曹敏昱</name>
+          <location>湖北</location>
+    </student>
+
+<student examid="4" number="201503396">
+          <class>软工1502</class>
+          <name>陈强</name>
+          <location>湖北</location>
+    </student>
+<student examid="5" number="201503617">
+          <class>软工1502</class>
+          <name>韩虎伟</name>
+          <location>湖北</location>
+    </student>
+<student examid="6" number="201503618">
+          <class>软工1502</class>
+          <name>郝盛强</name>
+          <location>湖北</location>
+    </student>
+<student examid="7" number="201502518">
+          <class>软工1502</class>
+          <name>黄为</name>
+          <location>湖北</location>
+    </student>
+<student examid="8" number="201503402">
+          <class>软工1502</class>
+          <name>寇爽</name>
+          <location>湖北</location>
+    </student>
+<student examid="9" number="201503366">
+          <class>软工1502</class>
+          <name>胡卓凡</name>
+          <location>湖北</location>
+    </student>
+<student examid="10" number="201503296">
+          <class>软工1502</class>
+          <name>胡振宇</name>
+          <location>湖北</location>
+    </student>
+<student examid="11" number="201503334">
+          <class>软工1502</class>
+          <name>刘雅婷</name>
+          <location>湖北</location>
+    </student>
+<student examid="12" number="201503622">
+          <class>软工1502</class>
+          <name>雷金梁</name>
+          <location>湖北</location>
+    </student>
+<student examid="13" number="201503507">
+          <class>软工1502</class>
+          <name>李闯梦</name>
+          <location>湖北</location>
+    </student>
+<student examid="14" number="201503369">
+          <class>软工1502</class>
+          <name>姜镭</name>
+          <location>湖北</location>
+    </student>
+<student examid="15" number="201503339">
+          <class>软工1502</class>
+          <name>乔江南</name>
+          <location>湖北</location>
+    </student>
+<student examid="16" number="201503340">
+          <class>软工1502</class>
+          <name>石榴</name>
+          <location>湖北</location>
+    </student>
+<student examid="17" number="201503632">
+          <class>软工1502</class>
+          <name>王义鹏</name>
+          <location>湖北</location>
+    </student>
+<student examid="18" number="201503514">
+          <class>软工1502</class>
+          <name>乔磊</name>
+          <location>湖北</location>
+    </student>
+<student examid="19" number="201503390">
+          <class>软工1502</class>
+          <name>张琪凡</name>
+          <location>湖北</location>
+    </student>
+<student examid="20" number="201503592">
+          <class>软工1502</class>
+          <name>罗荔豪</name>
+          <location>湖北</location>
+    </student>
+<student examid="21" number="201503679">
+          <class>软工1502</class>
+          <name>杨元娟</name>
+          <location>湖北</location>
+    </student>
+<student examid="22" number="201503383">
+          <class>软工1502</class>
+          <name>熊政</name>
+          <location>湖北</location>
+    </student>
+<student examid="23" number="201503680">
+          <class>软工1502</class>
+          <name>翟新</name>
+          <location>湖北</location>
+    </student>
+<student examid="24" number="201503638">
+          <class>软工1502</class>
+          <name>徐雪理</name>
+          <location>湖北</location>
+    </student>
+<student examid="25" number="201503491">
+          <class>软工1502</class>
+          <name>熊宇</name>
+          <location>湖北</location>
+    </student>
+<student examid="26" number="201503385">
+          <class>软工1502</class>
+          <name>杨航</name>
+          <location>湖北</location>
+    </student>
+<student examid="27" number="201503456">
+          <class>软工1502</class>
+          <name>许贝</name>
+          <location>湖北</location>
+    </student>
+<student examid="28" number="201503424">
+          <class>软工1502</class>
+          <name>郑凯</name>
+          <location>湖北</location>
+    </student>
+<student examid="29" number="201503460">
+          <class>软工1502</class>
+          <name>易思</name>
+          <location>湖北</location>
+    </student>
+<student examid="30" number="201503647">
+          <class>软工1502</class>
+          <name>赵中原</name>
+          <location>湖北</location>
+    </student>
+<student examid="31" number="201503427">
+          <class>软工1502</class>
+          <name>周锐</name>
+          <location>湖北</location>
+    </student>
+<student examid="31" number="201503393">
+          <class>软工1502</class>
+          <name>周维</name>
+          <location>湖北</location>
+    </student>
+</exam>
